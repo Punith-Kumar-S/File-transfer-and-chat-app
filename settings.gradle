@@ -1,0 +1,2 @@
+rootProject.name='BlaB Me'
+include ':app'

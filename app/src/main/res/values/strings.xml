@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BlaB Me</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="blab_me">BLAB ME</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="hello">hello</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_created_sign_in">Already Created? Sign In</string>
+    <string name="back"><![CDATA[<---]]></string>
+    <string name="todo">TODO</string>
+    <string name="wifi_on">Wifi On</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="discover">discover</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="wifi_on_off">wifi on/off</string>
+</resources>
